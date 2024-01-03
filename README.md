@@ -1,12 +1,22 @@
-👋 Hello, I’m @JBrocklyAnderson! I am unconditionally fascinated by almost any subject: politics, language, philosophy, AI, astronomy, interspecies communication, music, nature, you name it (in no particular order)! The world is full of astonishing things to learn and I'm a little salty there's not enough time in one life to explore it all! The best part about data science and computer programming to me is that it's capable of bringing together all of these disparate interests into a unified whole.
+***Hello, World!***
+I'm Joseph Brockly-Anderson, a dynamic web developer, data analyst, and aspiring software engineer with a vibrant tapestry of skills rooted in a deep commitment to shaping a better future through technology. My journey began at UC Davis, where I not only earned a Bachelor's in Political Science with a minor in Mandarin Chinese but also dove head-first into a profound exploration of global and social reality.
 
-🎓🏆💼 I have extensive in-depth academic training about global interdependence and international relations, comprehensive certifications in data analysis, leadership, and cultural sensitivity, professional publications for academic dissertations, deep multilingual capacities in Chinese, French, and Spanish, specialized public-facing customer service experience, an abundant long-standing passion for innovation, collaboration, and determination, and awards for academic excellence from University of California, Davis. 
+My passion is not just about writing code; it's about writing the future. With over a decade of experience in the hospitality industry, I've honed a unique perspective on human interaction and service, blending this understanding with a tech-driven approach to solving real-world problems. I bring a rich blend of analytical acumen, linguistic diversity, and a spirited dedication to meaningful change.
 
-🌱 I have experience using R, SQL, spreadsheets, mark down, YAML, BibTex, LaTeX, HTML, CSS, and am currently deep-diving into Python on [Repl.it](https://replit.com/@JosephBrockly-A), exploring new projects, and preparing to wrestle with predictive analytics and natural language processing.  
+**Why Me?**
+*Technological Artistry*: Crafting elegant websites and robust data solutions is not just my profession, it's my art. Whether designing a website for a friend's pet sitting business or analyzing data for a bike-sharing company in Chicago, I infuse creativity with functionality.
 
-💞️ I’m looking forward to explore what GitHub has to offer and ways of collaborating on projects that make a positive difference in people's lives or marked leaps of progress for the human species and the biosphere we come from.
+*Global Perspective, Local Impact*: Having traveled and lived across 26 states and 5 countries, I bring a global perspective to local challenges. My studies in international relations, American politics, comparative politics, and political theory inform my approach to tech solutions that are culturally aware and ethically grounded.
 
-📫 [LinkedIn](https://www.linkedin.com/in/joseph-brockly-anderson-438149287) | [Kaggle](https://www.kaggle.com/jbrocklyanderson)  
+*Linguistic Agility*: Fluent in English, proficient in Mandarin and French, and on a continuous journey of language learning (including Spanish and soon, Arabic and sign language), I believe in breaking barriers and fostering inclusive communication in the digital world.
+
+*Champion of Change*: Driven by a vision to eliminate societal ills like homelessness, poverty, war, and ecological collapse, I am not just coding websites or analyzing data; I'm coding for a cause. My work is a testament to my belief in using technology as a force for good.
+
+*Unwavering Excellence*: A recipient of academic honors and a published writer, I am committed to excellence. This commitment extends beyond my academic achievements to every project I undertake.
+
+I invite you to explore my portfolio and witness how my eclectic blend of skills, experiences, and passions make me an ideal candidate for roles that are not just jobs, but missions. Let's connect and collaborate on projects that matter, projects that not only challenge us but also change the world.
+
+📫 [LinkedIn](https://www.linkedin.com/in/joseph-brockly-anderson-438149287)
 
 <!---
 JBrocklyAnderson/JBrocklyAnderson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
