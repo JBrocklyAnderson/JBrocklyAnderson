@@ -1,9 +1,11 @@
 ***Hello, World!***
+
 I'm Joseph Brockly-Anderson, a dynamic web developer, data analyst, and aspiring software engineer with a vibrant tapestry of skills rooted in a deep commitment to shaping a better future through technology. My journey began at UC Davis, where I not only earned a Bachelor's in Political Science with a minor in Mandarin Chinese but also dove head-first into a profound exploration of global and social reality.
 
 My passion is not just about writing code; it's about writing the future. With over a decade of experience in the hospitality industry, I've honed a unique perspective on human interaction and service, blending this understanding with a tech-driven approach to solving real-world problems. I bring a rich blend of analytical acumen, linguistic diversity, and a spirited dedication to meaningful change.
 
 **Why Me?**
+
 *Technological Artistry*: Crafting elegant websites and robust data solutions is not just my profession, it's my art. Whether designing a website for a friend's pet sitting business or analyzing data for a bike-sharing company in Chicago, I infuse creativity with functionality.
 
 *Global Perspective, Local Impact*: Having traveled and lived across 26 states and 5 countries, I bring a global perspective to local challenges. My studies in international relations, American politics, comparative politics, and political theory inform my approach to tech solutions that are culturally aware and ethically grounded.
