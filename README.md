@@ -1,7 +1,9 @@
+```
 const greet = (interlocutor) => {
  console.log(`Hello, ${interlocutor}!`);
 };
 greet("World"); 
+```
 
 Who is Joseph Brockly-Anderson? A dynamic web developer, collaborative designer, rigorous data analyst, aspiring software engineer, and a scientific daredevil with a vibrant tapestry of skills rooted in a deep commitment to shaping a livable future through technology and human connection. His true journey began at UC Davis, where he not only earned a Bachelor's in Political Science with a minor in Mandarin Chinese but also dove head-first into a profound exploration of global society while investing in his personal growth and achieving academic and professional recognition.
 
