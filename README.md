@@ -1,20 +1,11 @@
-***Hello, World!***
+const greet = (interlocutor) => {
+ console.log(`Hello, ${interlocutor}!`);
+};
+greet("World"); 
 
-I'm Joseph Brockly-Anderson, a dynamic web developer, data analyst, and aspiring software engineer with a vibrant tapestry of skills rooted in a deep commitment to shaping a better future through technology. My journey began at UC Davis, where I not only earned a Bachelor's in Political Science with a minor in Mandarin Chinese but also dove head-first into a profound exploration of global and social reality.
+Who is Joseph Brockly-Anderson? A dynamic web developer, collaborative designer, rigorous data analyst, aspiring software engineer, and a scientific daredevil with a vibrant tapestry of skills rooted in a deep commitment to shaping a livable future through technology and human connection. His true journey began at UC Davis, where he not only earned a Bachelor's in Political Science with a minor in Mandarin Chinese but also dove head-first into a profound exploration of global society while investing in his personal growth and achieving academic and professional recognition.
 
-My passion is not just about writing code; it's about writing the future. With over a decade of experience in the hospitality industry, I've honed a unique perspective on human interaction and service, blending this understanding with a tech-driven approach to solving real-world problems. I bring a rich blend of analytical acumen, linguistic diversity, and a spirited dedication to meaningful change.
-
-**Why Me?**
-
-*Technological Artistry*: Crafting elegant websites and robust data solutions is not just my profession, it's my art. Whether designing a website for a friend's pet sitting business or analyzing data for a bike-sharing company in Chicago, I infuse creativity with functionality.
-
-*Global Perspective, Local Impact*: Having traveled and lived across 26 states and 5 countries, I bring a global perspective to local challenges. My studies in international relations, American politics, comparative politics, and political theory inform my approach to tech solutions that are culturally aware and ethically grounded.
-
-*Linguistic Agility*: Fluent in English, proficient in Mandarin and French, and on a continuous journey of language learning (including Spanish and soon, Arabic and sign language), I believe in breaking barriers and fostering inclusive communication in the digital world.
-
-*Champion of Change*: Driven by a vision to eliminate societal ills like homelessness, poverty, war, and ecological collapse, I am not just coding websites or analyzing data; I'm coding for a cause. My work is a testament to my belief in using technology as a force for good.
-
-*Unwavering Excellence*: A recipient of academic honors and a published writer, I am committed to excellence. This commitment extends beyond my academic achievements to every project I undertake.
+Joseph's passion is not just about writing code; it's about writing a better future and building a beautiful digital landscape that everyone can use to empower themselves. With over a decade of experience in the hospitality industry, he's honed a unique perspective on human interaction and service, blending this understanding with a tech-driven approach to solving real-world problems. He brings a rich combination of analytical acumen, linguistic diversity, engaging creativity, and a spirited dedication to impactful change in a world that desperately needs him.
 
 I invite you to explore my portfolio and witness how my eclectic blend of skills, experiences, and passions make me an ideal candidate for roles that are not just jobs, but missions. Let's connect and collaborate on projects that matter, projects that not only challenge us but also change the world.
 
